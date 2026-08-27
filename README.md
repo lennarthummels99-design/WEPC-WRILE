@@ -13,12 +13,6 @@ in Proportional Electoral Systems?"
 
 Lennart Hummels
 
-## Description
-
-This repository contains the R scripts used for the empirical
-analysis of party position change across majoritarian and
-proportional electoral systems.
-
 ## Data
 
 The analysis uses data from the Manifesto Project (MARPOR) and the Democratic Electoral Systems (DES).
